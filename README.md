@@ -11,7 +11,7 @@
 </div>
 
 
-<div align="left">
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="golang logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
